@@ -1,2 +1,2 @@
 # Placement-Portal 
-CS346 Software Engineering Coruse Project 
+CS346 Software Engineering Course Project 
